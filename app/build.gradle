@@ -1,0 +1,13 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.quinonescreative.street2homev2'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'com.quinonescreative.street2homev2'
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName '0.1-test'
+    }
+}
